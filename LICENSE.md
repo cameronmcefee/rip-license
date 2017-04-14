@@ -1,4 +1,4 @@
-I, [Name], direct that upon the conditions provided, [Executor Name] shall be given access to this repository and the contents therein (the “Software”) and shall modify their ownership and public availability as I have specified below:
+I, [Name], direct that upon the conditions provided, [Executor Name] shall be given access to this repository and the contents herein (the “Software”) and shall modify their ownership and public availability as I have specified below:
 
 The status of the Software should be changed if:
 
