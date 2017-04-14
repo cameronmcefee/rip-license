@@ -4,7 +4,7 @@
 >
 > — [@stevekrause](https://github.com/stevekrause)
 
-The RIP License can be placed in your private repos to specify what should happen to their contents in the event of your death or permanant incapacitation.
+Dying is going to suck for you, but it doesn’t have to suck for the people that rely on your software. The RIP License can be placed in your private repos to specify what should happen to their contents in the event of your death or permanant incapacitation.
 
 ## Usage
 
