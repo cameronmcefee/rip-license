@@ -8,7 +8,7 @@ The RIP License can be placed in your private repos to specify what should happe
 
 ## Usage
 
-1. Copy the contents of the appropriate `LICENSE` file into the root directory of your repo as your LICENSE file.
+1. Copy the contents of `LICENSE` into the root directory of your repo as your LICENSE file.
 
 1. Choose the conditions you wish to apply and update the names where appropriate.
 
