@@ -14,6 +14,6 @@ The RIP License can be placed in your private repos to specify what should happe
 
 1. In the section of your will or living will where you specify what should happen to your digital assets, add the following text.
 
-  > I name [Full Name] as the executor of my software projects hosted at [Site]. They are to be given access to my private code to follow the directions I have given in each individual LICENSE file.
+    > I name [Full Name] as the executor of my software projects hosted at [Site]. They are to be given access to my private code to follow the directions I have given in each individual LICENSE file.
 
 If you don't have a will or living will, the contents of the license still apply. However, be sure someone knows that the licenses exist, otherwise your wishes may not be honored.
