@@ -16,4 +16,4 @@ Dying is going to suck for you, but it doesn’t have to suck for the people tha
 
     > I name [Full Name] as the executor of my software projects hosted at [Site]. They are to be given access to my private code to follow the directions I have given in each individual LICENSE file.
 
-If you don't have a will or living will, the contents of the license still apply. However, be sure someone knows that the licenses exist, otherwise your wishes may not be honored.
+If you don't have a will or living will, the contents of the RIP License you select may still apply.  While there are no guarantees in life (other than, well, you know), making sure that others know about the RIP License you've selected can help ensure that your wishes are honored.
